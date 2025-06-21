@@ -102,9 +102,3 @@ var cyberchefFS embed.FS
 ## 📃 License
 
 MIT or public domain — this project is intended for demonstration or internal tooling use.
-
----
-
-## 👤 Author
-
-Built by [Your Name]. Contributions are welcome!
